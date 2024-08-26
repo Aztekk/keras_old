@@ -1,0 +1,9 @@
+.venv
+data
+dogs-vs-cats
+dogs-vs-cats.zip
+*.csv
+*.json
+.DS_Store
+models
+__pycache__
